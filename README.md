@@ -1,11 +1,23 @@
-# Olist E-Commerce: What's Driving Bad Reviews & How to Fix It
+<img width="1458" height="893" alt="Screenshot 2026-03-22 at 8 30 52 PM" src="https://github.com/user-attachments/assets/995235f4-38ef-43d2-9585-65f657b00daa" /># Olist E-Commerce: What's Driving Bad Reviews & How to Fix It
 > A data-driven analysis of delivery performance, seller quality, and 
 > customer satisfaction using 96,478 real orders from Brazil's largest 
 > e-commerce marketplace.
 
 ---
 
-## 🎯 Business Problem
+## 🎯 Key Product Insight
+Delivery delays are the dominant driver of customer dissatisfaction on Olist.
+Orders delayed 7+ days show a 60% drop in ratings (4.29 → 1.71). A small 
+subset of sellers and regions disproportionately contribute to these delays, 
+making them the highest-leverage targets for improving customer satisfaction 
+and retention.
+
+Improving delivery reliability represents the highest-impact lever for 
+increasing customer satisfaction on the platform.
+
+---
+
+## 📊 Business Problem
 Olist wants to understand why customers leave bad reviews and what can 
 be done to improve satisfaction scores across the platform.
 
@@ -24,12 +36,28 @@ be done to improve satisfaction scores across the platform.
 
 ---
 
+## 📸 Key Visualizations
+
+### Delivery Delay vs Review Score
+![Delay vs Rating](<img width="784" height="484" alt="image" src="https://github.com/user-attachments/assets/25843a6f-0147-4c57-bf41-e3735fe34779" />
+)
+> Orders delayed beyond 7 days show a sharp decline in customer satisfaction, 
+> confirming delivery reliability as the key driver of ratings.
+
+### Regional Delivery Performance
+![Region vs Delivery](<img width="1384" height="614" alt="image" src="https://github.com/user-attachments/assets/805134fe-b267-471c-84d1-556403e744fe" />
+)
+> North/Northeast states average 20+ delivery days, representing the highest 
+> priority regions for logistics improvement.
+
+---
+
 ## 💡 Recommendations
-1. Expand warehouse presence to cut 21+ day deliveries by 50%
-2. Improve ETA accuracy — meeting promises matters more than speed
-3. Open logistics hubs in AL, PA, MA, CE, BA states
-4. Implement seller scorecard with minimum 3.5 score threshold
-5. Introduce special delivery SLAs for bulky product categories
+1. Enforce SLA penalties on top 10 worst-performing sellers → Expected to significantly reduce delayed orders and improve platform-wide ratings
+2. Introduce ETA accuracy as a core KPI → Meeting delivery promises matters more than speed; reduces very late orders scoring 1.71
+3. Target AL, PA, MA, CE, BA states for logistics infrastructure improvement → These states average 20+ days, directly hurting satisfaction
+4. Implement seller scorecard with minimum 3.5 score threshold → Removes low-quality sellers disproportionately damaging platform reputation
+5. Introduce category-specific delivery SLAs for bulky products → Office furniture averaging 20.4 days needs dedicated handling
 
 ---
 
