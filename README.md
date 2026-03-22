@@ -39,13 +39,13 @@ be done to improve satisfaction scores across the platform.
 ## 📸 Key Visualizations
 
 ### Delivery Delay vs Review Score
-![Delay vs Rating](<img width="784" height="484" alt="image" src="https://github.com/user-attachments/assets/25843a6f-0147-4c57-bf41-e3735fe34779" />
+![Delay vs Rating](https://github.com/user-attachments/assets/25843a6f-0147-4c57-bf41-e3735fe34779)
 )
 > Orders delayed beyond 7 days show a sharp decline in customer satisfaction, 
 > confirming delivery reliability as the key driver of ratings.
 
 ### Regional Delivery Performance
-![Region vs Delivery](<img width="1384" height="614" alt="image" src="https://github.com/user-attachments/assets/805134fe-b267-471c-84d1-556403e744fe" />
+![Region vs Delivery](https://github.com/user-attachments/assets/805134fe-b267-471c-84d1-556403e744fe)
 )
 > North/Northeast states average 20+ delivery days, representing the highest 
 > priority regions for logistics improvement.
