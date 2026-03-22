@@ -1,4 +1,4 @@
-<img width="1458" height="893" alt="Screenshot 2026-03-22 at 8 30 52 PM" src="https://github.com/user-attachments/assets/995235f4-38ef-43d2-9585-65f657b00daa" /># Olist E-Commerce: What's Driving Bad Reviews & How to Fix It
+### Olist E-Commerce: What's Driving Bad Reviews & How to Fix It
 > A data-driven analysis of delivery performance, seller quality, and 
 > customer satisfaction using 96,478 real orders from Brazil's largest 
 > e-commerce marketplace.
